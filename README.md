@@ -19,3 +19,12 @@ Signature:
 1. Amsterdam
 2. Nuremberg
 3. Shanghai
+
+### Practice
+**bold**  
+_italicized_  
+_**bold and italicized**_
+
+**This is a quote:**  
+> Once there was a man.  
+-- Man
